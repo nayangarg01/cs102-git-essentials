@@ -1,0 +1,5 @@
+git add - used to stage the unstaged files on your machine
+git commit - commits the change smade to your staged files 
+git push - used to reflect the changes made on your local machine to your github account online
+git pull - used to reflect changes made on your github account online to your local machine
+git branch - outputs the branch of your repository you are working in for example - main.
