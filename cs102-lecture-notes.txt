@@ -3,3 +3,7 @@ git commit - commits the change smade to your staged files
 git push - used to reflect the changes made on your local machine to your github account online
 git pull - used to reflect changes made on your github account online to your local machine
 git branch - outputs the branch of your repository you are working in for example - main.
+
+summary for today's lecture:
+
+today's lecture was an introduction to the HTML and markdown app. HTML stands for hypertext markup language which is used to design beautiful and creative webpages and websites. In order to create a webpage we first write plain text and then execute it through a markdown app and it provides the client with a formatted HTML document. In case of Github this markdown app is replaced by an inbuilt server that converts our plain text into an HTML document. We were also taught how to create a readme file and create our personal profile in a seperate repositiory in our github account by the name of username.github.io. Sir also gave an insight into XML another markup language that is majorly used to store data and content.
